@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "book",
+    "price": 9.99,
+    "imgUrl": "/images/book.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "bike",
+    "price": 129.99,
+    "imgUrl": "/images/bike.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "banana",
+    "price": 1.99,
+    "imgUrl": "/images/banana.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "glasses",
+    "price": 59.99,
+    "imgUrl": "/images/glasses.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "laptop",
+    "price": 1119.99,
+    "imgUrl": "/images/laptop.jpg"
+  }
+]
