@@ -35,7 +35,7 @@ export const Navbar = () => {
               height: "1.5rem",
               position: "absolute",
               bottom: -5,
-              right: -10,
+              right: -7,
             }}
           >
             3
